@@ -1,0 +1,17 @@
+{
+    "name": "rahul224/mywpplugin",
+    "description": "Wordpress demo oop plugin",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">= 5.5",
+        "composer/installers": "*"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Rahul Ranjan",
+            "email": "rahul.ranjan423@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
